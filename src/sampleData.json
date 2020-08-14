@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Root_folder",
+    "path": "/Root_folder",
+    "size": 2156754,
+    "createdOn": -1,
+    "url": null,
+    "fileType": "FOLDER",
+    "itemId": 478202,
+    "parentId": -1
+  },
+  {
+    "name": "checksum.txt",
+    "path": "/Root_folder/checksum.txt",
+    "size": 15402,
+    "createdOn": 1595072355000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478203,
+    "parentId": 478202
+  },
+  {
+    "name": "Test_report",
+    "path": "/Root_folder/Test_report",
+    "size": 2141352,
+    "createdOn": -1,
+    "url": null,
+    "fileType": "FOLDER",
+    "itemId": 478204,
+    "parentId": 478202
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report/testHtml.tsv",
+    "size": 50,
+    "createdOn": 1595072351000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478211,
+    "parentId": 478204
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report/controller_statistics.tsv",
+    "size": 3108,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478209,
+    "parentId": 478204
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report/controller_statistics.html",
+    "size": 47961,
+    "createdOn": 1595072350000,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478207,
+    "parentId": 478204
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report/testHtml.html",
+    "size": 5131,
+    "createdOn": 1595072351000,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478208,
+    "parentId": 478204
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report/new_controller.tsv",
+    "size": 275,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478206,
+    "parentId": 478204
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report/new_controller.html",
+    "size": 8508,
+    "createdOn": 1595072350000,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478210,
+    "parentId": 478204
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report/static.txt",
+    "size": 9038,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478205,
+    "parentId": 478204
+  }
+]
