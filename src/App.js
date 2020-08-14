@@ -86,6 +86,7 @@ const App = () => {
   ]);
   const [expandedRowIds, setExpandedRowIds] = useState([]);
   const [loading, setLoading] = useState(false);
+  const [showIcon, setShowIcon] = useState(" [+]");
 
   const loadData = () => {
     const rowIdsWithNotLoadedChilds = [ROOT_ID, ...expandedRowIds].filter(
@@ -115,13 +116,18 @@ const App = () => {
 
   const expandAllRows = () => {
     let expIds = [];
-    sampleData.forEach(element => {
-      if (element.fileType === "FOLDER") {
-        expIds.push(element.itemId);
-      }
-    });
-    setExpandedRowIds(expIds);
-    console.log("itemId: ", expIds);
+    if (expandedRowIds.length === 0) {
+      sampleData.forEach(element => {
+        if (element.fileType === "FOLDER") {
+          expIds.push(element.itemId);
+        }
+      });
+      setShowIcon(" [-]");
+      setExpandedRowIds(expIds);
+    } else {
+      setShowIcon(" [+]");
+      setExpandedRowIds([]);
+    }
   };
 
   const tableHeaderCell = props => {
@@ -130,8 +136,7 @@ const App = () => {
       <TableHeaderRow.Cell {...props}>
         {column.title}{" "}
         <a href="#" onClick={expandAllRows}>
-          {" "}
-          [+]
+          {showIcon}
         </a>
       </TableHeaderRow.Cell>
     ) : (
