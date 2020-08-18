@@ -13,6 +13,7 @@ import { Loading } from "./components/loading";
 import sampleData from "./sampleData.json";
 
 import AChildComponent from "./components/AChildComponent";
+import "./styles.css";
 
 const ROOT_ID = -1;
 
@@ -27,20 +28,22 @@ const getChildRows = (row, rootRows) => {
   return row && row.fileType === "FOLDER" ? [] : null;
 };
 
-const ExpandButton = ({ expanded, visible, onToggle }) => (
-  <span
-    className={classNames({
-      "mr-3 oi": true,
-      "oi-folder": !expanded,
-      "oi-envelope-open": expanded,
-      "d-none": !visible
-    })}
-    onClick={e => {
-      e.stopPropagation();
-      onToggle();
-    }}
-  />
-);
+const ExpandButton = ({ expanded, visible, onToggle }) => {
+  return (
+    <span
+      className={classNames({
+        "mr-3 oi": true,
+        "oi-folder": !expanded,
+        "oi-envelope-open": expanded,
+        "d-none": !visible
+      })}
+      /* onClick={e => {
+        e.stopPropagation();
+        onToggle();
+      }} */
+    />
+  );
+};
 
 const handleClick = obj => {
   console.log(obj);
@@ -57,7 +60,13 @@ const App = () => {
             {row}
           </AChildComponent>
         ) : (
-          row.name
+          <a
+            href="# "
+            className="parent-row"
+            onClick={e => expandRowById(row.itemId)}
+          >
+            {row.name}
+          </a>
         );
       }
     },
@@ -81,12 +90,16 @@ const App = () => {
   ]);
   const [data, setData] = useState([]);
   const [tableColumnExtensions] = useState([
-    { columnName: "name", width: 300 },
-    { columnName: "size", width: 120, align: "right" }
+    { columnName: "Name", width: "25%" },
+    { columnName: "Size", width: "25%", align: "right" },
+    { columnName: "Type", width: "25%" },
+    { columnName: "Timestamp", width: "25%" }
   ]);
   const [expandedRowIds, setExpandedRowIds] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [showIcon, setShowIcon] = useState(" [+]");
+  const [showIcon, setShowIcon] = useState("[+]");
+
+  const folderIds = [];
 
   const loadData = () => {
     const rowIdsWithNotLoadedChilds = [ROOT_ID, ...expandedRowIds].filter(
@@ -122,12 +135,22 @@ const App = () => {
           expIds.push(element.itemId);
         }
       });
-      setShowIcon(" [-]");
+      setShowIcon("[–]");
       setExpandedRowIds(expIds);
     } else {
-      setShowIcon(" [+]");
+      setShowIcon("[+]");
       setExpandedRowIds([]);
     }
+  };
+
+  const expandRowById = itemId => {
+    const index = folderIds.indexOf(itemId);
+    if (index > -1) {
+      folderIds.splice(index, 1);
+    } else {
+      folderIds.push(itemId);
+    }
+    setExpandedRowIds([...folderIds]);
   };
 
   const tableHeaderCell = props => {
@@ -135,7 +158,7 @@ const App = () => {
     return column.name === "name" ? (
       <TableHeaderRow.Cell {...props}>
         {column.title}{" "}
-        <a href="#" onClick={expandAllRows}>
+        <a href="# " className="expand-all" onClick={expandAllRows}>
           {showIcon}
         </a>
       </TableHeaderRow.Cell>

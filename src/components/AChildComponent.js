@@ -31,11 +31,7 @@ const AChildComponent = ({ children, onClick, ...props }) => {
   return (
     <Fragment>
       <FA icon={getIcons(getFileExtension(props.name))} />{" "}
-      <a
-        href="#javascript"
-        {...props}
-        onClick={() => handleClick(children)}
-      >
+      <a href="# " className="child-row" {...props} onClick={() => handleClick(children)}>
         {props.name}
       </a>
     </Fragment>

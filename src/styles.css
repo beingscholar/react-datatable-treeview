@@ -1,3 +1,42 @@
 .App {
   font-family: "PT Sans";
 }
+
+.expand-all {
+  clip: rect(0px 112px 175px 0px);
+  transition: clip 600ms ease-out;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.expand-all:hover {
+  color: #007bff !important;
+}
+
+.parent-row {
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  color: #21262a;
+}
+
+.parent-row:hover {
+  color: #007bff !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+}
+
+.child-row {
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  color: #21262a;
+}
+
+.child-row:hover {
+  color: #007bff !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+}
