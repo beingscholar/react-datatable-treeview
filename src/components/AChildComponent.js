@@ -19,11 +19,32 @@ const getIcons = ext => {
   if (ext === "jpg") fontIcon = faImage;
   return fontIcon;
 };
+const linkCheck = url => {
+  var http = new XMLHttpRequest();
+  http.open("HEAD", url, false);
+  http.send();
+  return http.status != 404;
+};
 
 const AChildComponent = ({ children, onClick, ...props }) => {
   const handleClick = useCallback(
-    children => {
-      return onClick(children);
+    ({ name, path }) => {
+      path = path.slice(0, path.lastIndexOf("/"));
+      fetch(`${process.env.PUBLIC_URL + path}`).then(response => {
+        if (linkCheck(response.url + "/" + name)) {
+          if (getFileExtension(name) !== "html") {
+            response.blob().then(blob => {
+              let url = window.URL.createObjectURL(blob);
+              let a = document.createElement("a");
+              a.href = url;
+              a.download = name;
+              a.click();
+            });
+          } else {
+            window.open(`${response.url + "/" + name}`, "_blank");
+          }
+        }
+      });
     },
     [onClick]
   );
@@ -31,7 +52,13 @@ const AChildComponent = ({ children, onClick, ...props }) => {
   return (
     <Fragment>
       <FA icon={getIcons(getFileExtension(props.name))} />{" "}
-      <a href="# " className="child-row" {...props} onClick={() => handleClick(children)}>
+      <a
+        href="# "
+        // target="_blank"
+        className="child-row"
+        {...props}
+        onClick={() => handleClick(children)}
+      >
         {props.name}
       </a>
     </Fragment>
