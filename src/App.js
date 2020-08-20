@@ -4,7 +4,8 @@ import {
   Grid,
   VirtualTable,
   TableHeaderRow,
-  TableTreeColumn
+  TableTreeColumn,
+  TableColumnResizing
 } from "@devexpress/dx-react-grid-bootstrap4";
 import "@devexpress/dx-react-grid-bootstrap4/dist/dx-react-grid-bootstrap4.css";
 import classNames from "classnames";
@@ -90,10 +91,10 @@ const App = () => {
   ]);
   const [data, setData] = useState([]);
   const [tableColumnExtensions] = useState([
-    { columnName: "Name", width: "25%" },
-    { columnName: "Size", width: "25%", align: "right" },
-    { columnName: "Type", width: "25%" },
-    { columnName: "Timestamp", width: "25%" }
+    { columnName: "name", width: 200 },
+    { columnName: "size", width: 150, align: "right" },
+    { columnName: "fileType", width: 150 },
+    { columnName: "createdOn", width: 150 }
   ]);
   const [expandedRowIds, setExpandedRowIds] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -175,7 +176,9 @@ const App = () => {
           onExpandedRowIdsChange={setExpandedRowIds}
         />
         <CustomTreeData getChildRows={getChildRows} />
-        <VirtualTable columnExtensions={tableColumnExtensions} />
+        {/* <VirtualTable columnExtensions={tableColumnExtensions} /> */}
+        <VirtualTable />
+        <TableColumnResizing defaultColumnWidths={tableColumnExtensions} />
         <TableHeaderRow cellComponent={tableHeaderCell} />
         <TableTreeColumn for="name" expandButtonComponent={ExpandButton} />
       </Grid>

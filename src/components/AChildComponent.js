@@ -23,31 +23,28 @@ const linkCheck = url => {
   var http = new XMLHttpRequest();
   http.open("HEAD", url, false);
   http.send();
-  return http.status != 404;
+  return http.status !== 404;
 };
 
 const AChildComponent = ({ children, onClick, ...props }) => {
-  const handleClick = useCallback(
-    ({ name, path }) => {
-      path = path.slice(0, path.lastIndexOf("/"));
-      fetch(`${process.env.PUBLIC_URL + path}`).then(response => {
-        if (linkCheck(response.url + "/" + name)) {
-          if (getFileExtension(name) !== "html") {
-            response.blob().then(blob => {
-              let url = window.URL.createObjectURL(blob);
-              let a = document.createElement("a");
-              a.href = url;
-              a.download = name;
-              a.click();
-            });
-          } else {
-            window.open(`${response.url + "/" + name}`, "_blank");
-          }
+  const handleClick = useCallback(({ name, path }) => {
+    path = path.slice(0, path.lastIndexOf("/"));
+    fetch(`${process.env.PUBLIC_URL + path}`).then(response => {
+      if (linkCheck(response.url + "/" + name)) {
+        if (getFileExtension(name) !== "html") {
+          response.blob().then(blob => {
+            let url = window.URL.createObjectURL(blob);
+            let a = document.createElement("a");
+            a.href = url;
+            a.download = name;
+            a.click();
+          });
+        } else {
+          window.open(`${response.url + "/" + name}`, "_blank");
         }
-      });
-    },
-    [onClick]
-  );
+      }
+    });
+  }, []);
 
   return (
     <Fragment>

@@ -98,5 +98,1895 @@
     "fileType": "FILE",
     "itemId": 478205,
     "parentId": 478204
+  },
+  {
+    "name": "Test_report_1",
+    "path": "/Root_folder/Test_report_1",
+    "size": 2141352,
+    "createdOn": -1,
+    "url": null,
+    "fileType": "FOLDER",
+    "itemId": 479205,
+    "parentId": 478202
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_1/testHtml.tsv",
+    "size": 50,
+    "createdOn": 1595072351000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478301,
+    "parentId": 479205
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_1/controller_statistics.tsv",
+    "size": 3108,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478302,
+    "parentId": 479205
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_1/controller_statistics.html",
+    "size": 47961,
+    "createdOn": 1595072350000,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478303,
+    "parentId": 479205
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_1/testHtml.html",
+    "size": 5131,
+    "createdOn": 1595072351000,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478304,
+    "parentId": 479205
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_1/new_controller.tsv",
+    "size": 275,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478305,
+    "parentId": 479205
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_1/new_controller.html",
+    "size": 8508,
+    "createdOn": 1595072350000,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478306,
+    "parentId": 479205
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_1/static.txt",
+    "size": 9038,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478307,
+    "parentId": 479205
+  },
+  {
+    "name": "Test_report_2",
+    "path": "/Root_folder/Test_report_2",
+    "size": 2141352,
+    "createdOn": -1,
+    "url": null,
+    "fileType": "FOLDER",
+    "itemId": 479206,
+    "parentId": 478202
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 50,
+    "createdOn": 1595072351000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478310,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 3108,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478311,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": 47961,
+    "createdOn": 1595072350000,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478312,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": 5131,
+    "createdOn": 1595072351000,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478313,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": 275,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478314,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": 8508,
+    "createdOn": 1595072350000,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478315,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": 9038,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478316,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 50,
+    "createdOn": 1595072351000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478317,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 3108,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478318,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": 47961,
+    "createdOn": 1595072350000,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478319,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": 5131,
+    "createdOn": 1595072351000,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478320,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": 275,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478321,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": 8508,
+    "createdOn": 1595072350000,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478322,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": 9038,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478323,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 50,
+    "createdOn": 1595072351000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478324,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 3108,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478325,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": 47961,
+    "createdOn": 1595072350000,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478326,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": 5131,
+    "createdOn": 1595072351000,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478327,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": 275,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478328,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": 8508,
+    "createdOn": 1595072350000,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478329,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": 9038,
+    "createdOn": 1595072350000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478330,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 9164.142857,
+    "createdOn": 1595072349857,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478331,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 8809.785714,
+    "createdOn": 1595072349750,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478332,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": 8455.428571,
+    "createdOn": 1595072349643,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478333,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": 8101.071429,
+    "createdOn": 1595072349536,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478334,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": 7746.714286,
+    "createdOn": 1595072349429,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478335,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": 7392.357143,
+    "createdOn": 1595072349321,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478336,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": 7038,
+    "createdOn": 1595072349214,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478337,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 6683.642857,
+    "createdOn": 1595072349107,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478338,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 6329.285714,
+    "createdOn": 1595072349000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478339,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": 5974.928571,
+    "createdOn": 1595072348893,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478340,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": 5620.571429,
+    "createdOn": 1595072348786,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478341,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": 5266.214286,
+    "createdOn": 1595072348679,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478342,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": 4911.857143,
+    "createdOn": 1595072348571,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478343,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": 4557.5,
+    "createdOn": 1595072348464,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478344,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 4203.142857,
+    "createdOn": 1595072348357,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478345,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 3848.785714,
+    "createdOn": 1595072348250,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478346,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 3494.428571,
+    "createdOn": 1595072348143,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478347,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 3140.071429,
+    "createdOn": 1595072348036,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478348,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": 2785.714286,
+    "createdOn": 1595072347929,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478349,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": 2431.357143,
+    "createdOn": 1595072347821,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478350,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": 2077,
+    "createdOn": 1595072347714,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478351,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": 1722.642857,
+    "createdOn": 1595072347607,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478352,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": 1368.285714,
+    "createdOn": 1595072347500,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478353,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": 1013.928571,
+    "createdOn": 1595072347393,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478354,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": 659.5714286,
+    "createdOn": 1595072347286,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478355,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": 305.2142857,
+    "createdOn": 1595072347179,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478356,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -49.14285714,
+    "createdOn": 1595072347071,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478357,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -403.5,
+    "createdOn": 1595072346964,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478358,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -757.8571429,
+    "createdOn": 1595072346857,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478359,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": -1112.214286,
+    "createdOn": 1595072346750,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478360,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -1466.571429,
+    "createdOn": 1595072346643,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478361,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -1820.928571,
+    "createdOn": 1595072346536,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478362,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -2175.285714,
+    "createdOn": 1595072346429,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478363,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -2529.642857,
+    "createdOn": 1595072346321,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478364,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -2884,
+    "createdOn": 1595072346214,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478365,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -3238.357143,
+    "createdOn": 1595072346107,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478366,
+    "parentId": 479206
+  },
+  {
+    "name": "static.txt",
+    "path": "/Root_folder/Test_report_2/static.txt",
+    "size": -3592.714286,
+    "createdOn": 1595072346000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478367,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -3947.071429,
+    "createdOn": 1595072345893,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478368,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -4301.428571,
+    "createdOn": 1595072345786,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478369,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -4655.785714,
+    "createdOn": 1595072345679,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478370,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -5010.142857,
+    "createdOn": 1595072345571,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478371,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -5364.5,
+    "createdOn": 1595072345464,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478372,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -5718.857143,
+    "createdOn": 1595072345357,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478373,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -6073.214286,
+    "createdOn": 1595072345250,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478374,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -6427.571429,
+    "createdOn": 1595072345143,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478375,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -6781.928571,
+    "createdOn": 1595072345036,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478376,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -7136.285714,
+    "createdOn": 1595072344929,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478377,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -7490.642857,
+    "createdOn": 1595072344821,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478378,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -7845,
+    "createdOn": 1595072344714,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478379,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -8199.357143,
+    "createdOn": 1595072344607,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478380,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -8553.714286,
+    "createdOn": 1595072344500,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478381,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -8908.071429,
+    "createdOn": 1595072344393,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478382,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -9262.428571,
+    "createdOn": 1595072344286,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478383,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -9616.785714,
+    "createdOn": 1595072344179,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478384,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -9971.142857,
+    "createdOn": 1595072344071,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478385,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -10325.5,
+    "createdOn": 1595072343964,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478386,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -10679.85714,
+    "createdOn": 1595072343857,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478387,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -11034.21429,
+    "createdOn": 1595072343750,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478388,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -11388.57143,
+    "createdOn": 1595072343643,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478389,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -11742.92857,
+    "createdOn": 1595072343536,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478390,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -12097.28571,
+    "createdOn": 1595072343429,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478391,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -12451.64286,
+    "createdOn": 1595072343321,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478392,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -12806,
+    "createdOn": 1595072343214,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478393,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -13160.35714,
+    "createdOn": 1595072343107,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478394,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -13514.71429,
+    "createdOn": 1595072343000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478395,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -13869.07143,
+    "createdOn": 1595072342893,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478396,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -14223.42857,
+    "createdOn": 1595072342786,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478397,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -14577.78571,
+    "createdOn": 1595072342679,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478398,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -14932.14286,
+    "createdOn": 1595072342571,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478399,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -15286.5,
+    "createdOn": 1595072342464,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478400,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -15640.85714,
+    "createdOn": 1595072342357,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478401,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -15995.21429,
+    "createdOn": 1595072342250,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478402,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -16349.57143,
+    "createdOn": 1595072342143,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478403,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -16703.92857,
+    "createdOn": 1595072342036,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478404,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -17058.28571,
+    "createdOn": 1595072341929,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478405,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -17412.64286,
+    "createdOn": 1595072341821,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478406,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -17767,
+    "createdOn": 1595072341714,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478407,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -18121.35714,
+    "createdOn": 1595072341607,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478408,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -18475.71429,
+    "createdOn": 1595072341500,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478409,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -18830.07143,
+    "createdOn": 1595072341393,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478410,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -19184.42857,
+    "createdOn": 1595072341286,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478411,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -19538.78571,
+    "createdOn": 1595072341179,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478412,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -19893.14286,
+    "createdOn": 1595072341071,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478413,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -20247.5,
+    "createdOn": 1595072340964,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478414,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -20601.85714,
+    "createdOn": 1595072340857,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478415,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -20956.21429,
+    "createdOn": 1595072340750,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478416,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -21310.57143,
+    "createdOn": 1595072340643,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478417,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -21664.92857,
+    "createdOn": 1595072340536,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478418,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -22019.28571,
+    "createdOn": 1595072340429,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478419,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -22373.64286,
+    "createdOn": 1595072340321,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478420,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -22728,
+    "createdOn": 1595072340214,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478421,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -23082.35714,
+    "createdOn": 1595072340107,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478422,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -23436.71429,
+    "createdOn": 1595072340000,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478423,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -23791.07143,
+    "createdOn": 1595072339893,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478424,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -24145.42857,
+    "createdOn": 1595072339786,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478425,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -24499.78571,
+    "createdOn": 1595072339679,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478426,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -24854.14286,
+    "createdOn": 1595072339571,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478427,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -25208.5,
+    "createdOn": 1595072339464,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478428,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -25562.85714,
+    "createdOn": 1595072339357,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478429,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -25917.21429,
+    "createdOn": 1595072339250,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478430,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -26271.57143,
+    "createdOn": 1595072339143,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478431,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -26625.92857,
+    "createdOn": 1595072339036,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478432,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -26980.28571,
+    "createdOn": 1595072338929,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478433,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -27334.64286,
+    "createdOn": 1595072338821,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478434,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -27689,
+    "createdOn": 1595072338714,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478435,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -28043.35714,
+    "createdOn": 1595072338607,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478436,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -28397.71429,
+    "createdOn": 1595072338500,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478437,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -28752.07143,
+    "createdOn": 1595072338393,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478438,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -29106.42857,
+    "createdOn": 1595072338286,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478439,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -29460.78571,
+    "createdOn": 1595072338179,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478440,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -29815.14286,
+    "createdOn": 1595072338071,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478441,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -30169.5,
+    "createdOn": 1595072337964,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478442,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -30523.85714,
+    "createdOn": 1595072337857,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478443,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -30878.21429,
+    "createdOn": 1595072337750,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478444,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -31232.57143,
+    "createdOn": 1595072337643,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478445,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -31586.92857,
+    "createdOn": 1595072337536,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478446,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -31941.28571,
+    "createdOn": 1595072337429,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478447,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -32295.64286,
+    "createdOn": 1595072337321,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478448,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -32650,
+    "createdOn": 1595072337214,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478449,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -33004.35714,
+    "createdOn": 1595072337107,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478450,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -33358.71429,
+    "createdOn": 1595072337000,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478451,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -33713.07143,
+    "createdOn": 1595072336893,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478452,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -34067.42857,
+    "createdOn": 1595072336786,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478453,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -34421.78571,
+    "createdOn": 1595072336679,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478454,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -34776.14286,
+    "createdOn": 1595072336571,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478455,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -35130.5,
+    "createdOn": 1595072336464,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478456,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -35484.85714,
+    "createdOn": 1595072336357,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478457,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -35839.21429,
+    "createdOn": 1595072336250,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478458,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -36193.57143,
+    "createdOn": 1595072336143,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478459,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -36547.92857,
+    "createdOn": 1595072336036,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478460,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -36902.28571,
+    "createdOn": 1595072335929,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478461,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -37256.64286,
+    "createdOn": 1595072335821,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478462,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -37611,
+    "createdOn": 1595072335714,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478463,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -37965.35714,
+    "createdOn": 1595072335607,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478464,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -38319.71429,
+    "createdOn": 1595072335500,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478465,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -38674.07143,
+    "createdOn": 1595072335393,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478466,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -39028.42857,
+    "createdOn": 1595072335286,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478467,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -39382.78571,
+    "createdOn": 1595072335179,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478468,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -39737.14286,
+    "createdOn": 1595072335071,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478469,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -40091.5,
+    "createdOn": 1595072334964,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478470,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -40445.85714,
+    "createdOn": 1595072334857,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478471,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -40800.21429,
+    "createdOn": 1595072334750,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478472,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -41154.57143,
+    "createdOn": 1595072334643,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478473,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -41508.92857,
+    "createdOn": 1595072334536,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478474,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -41863.28571,
+    "createdOn": 1595072334429,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478475,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -42217.64286,
+    "createdOn": 1595072334321,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478476,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -42572,
+    "createdOn": 1595072334214,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478477,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -42926.35714,
+    "createdOn": 1595072334107,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478478,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -43280.71429,
+    "createdOn": 1595072334000,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478479,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -43635.07143,
+    "createdOn": 1595072333893,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478480,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -43989.42857,
+    "createdOn": 1595072333786,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478481,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -44343.78571,
+    "createdOn": 1595072333679,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478482,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -44698.14286,
+    "createdOn": 1595072333571,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478483,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.html",
+    "path": "/Root_folder/Test_report_2/controller_statistics.html",
+    "size": -45052.5,
+    "createdOn": 1595072333464,
+    "url": "https://test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478484,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.html",
+    "path": "/Root_folder/Test_report_2/testHtml.html",
+    "size": -45406.85714,
+    "createdOn": 1595072333357,
+    "url": "https://test.statistics.html",
+    "fileType": "FILE",
+    "itemId": 478485,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.tsv",
+    "path": "/Root_folder/Test_report_2/new_controller.tsv",
+    "size": -45761.21429,
+    "createdOn": 1595072333250,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478486,
+    "parentId": 479206
+  },
+  {
+    "name": "new_controller.html",
+    "path": "/Root_folder/Test_report_2/new_controller.html",
+    "size": -46115.57143,
+    "createdOn": 1595072333143,
+    "url": "https://new_test_statistics.html",
+    "fileType": "FILE",
+    "itemId": 478487,
+    "parentId": 479206
+  },
+  {
+    "name": "testHtml.tsv",
+    "path": "/Root_folder/Test_report_2/testHtml.tsv",
+    "size": -46469.92857,
+    "createdOn": 1595072333036,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478488,
+    "parentId": 479206
+  },
+  {
+    "name": "controller_statistics.tsv",
+    "path": "/Root_folder/Test_report_2/controller_statistics.tsv",
+    "size": -46824.28571,
+    "createdOn": 1595072332929,
+    "url": null,
+    "fileType": "FILE",
+    "itemId": 478489,
+    "parentId": 479206
   }
 ]
